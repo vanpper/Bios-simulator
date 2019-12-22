@@ -111,7 +111,7 @@ void BorrarFondo(){
 
 void BarraDeTitulo(){
 
-    gotoxy(0,0); color(48); printf("                                                                                  ");
+    gotoxy(0,0); color(48); printf("                                                                                   ");
     gotoxy(28,0); color(48); cout<<"IVAN PERALTA BIOS 1.0"<<endl;
 }
 
