@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552712636 source:c:\users\van\documents\codeblocks proyectos\bios\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<ctime>
+
